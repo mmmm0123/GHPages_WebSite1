@@ -23,7 +23,6 @@ permalink: /
 # My name is Matsuoka ! Hello!
 ## 情報学部情報学科二回生　　
 ## サイバーセキュリティコース
-
 #### 三重県出身
 #### 映画鑑賞が趣味です
 <br>
