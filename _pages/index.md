@@ -1,6 +1,6 @@
 ---
-title: "マツオカ"
-author: マツオカ
+title: "introduce"
+author: matsuoka
 permalink: /
 ---
 
@@ -13,13 +13,13 @@ permalink: /
 
 以下テンプレート
 
-# My name is Matsuoka ! Hello!
+# 見出し1
 ## 見出し2
 ### 見出し3
 #### 見出し4
 ##### 見出し5
 ###### 見出し6
-#
+# My name is Matsuoka ! Hello!
 改行は、行末に半角スペースを2個いれる
 次の行
 
