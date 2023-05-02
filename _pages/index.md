@@ -63,4 +63,4 @@ permalink: /
 <br>
 <br>
 #### 昨年ゼミの課題の1つ　（Unity制作）
-![image](/GHPages_WebSite1/assets/images/スクリーンショット%202023-05-02%2019.34.17.png)
+![image](/GHPages_WebSite1/assets/images/スクリーンショット%202023-05-02%2019.34.17.png?raw=true)
