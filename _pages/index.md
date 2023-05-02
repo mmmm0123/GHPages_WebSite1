@@ -57,10 +57,10 @@ permalink: /
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 -->
 #### テックハブなどで友人作り交流等行いたいと思っています
-![image](https://github.com/mmmm0123/GHPages_WebSite1/blob/main/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 <br>
 <br>
 <br>
 <br>
 #### 昨年ゼミの課題の1つ　（Unity制作）
-![image](https://github.com/mmmm0123/GHPages_WebSite1/blob/main/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-05-02%2019.34.17.png)
+![image](/GHPages_WebSite/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-05-02%2019.34.17.png)
