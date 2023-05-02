@@ -57,7 +57,7 @@ permalink: /
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 -->
 #### テックハブなどで友人作り交流等行いたいと思っています
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](https://github.com/mmmm0123/GHPages_WebSite1/blob/main/assets/images/logo-150.png)
 <br>
 <br>
 <br>
